@@ -1,4 +1,4 @@
-# hey, I'm Rodolfo 👋
+# hey, I'm Rodolfo 🦔
 Marketer by day, app builder by night.
 I work at [@Workflowy](https://workflowy.com) and build small, focused iOS apps on the side — things I'd actually want to use.
 ## Apps
