@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**rodolfo-terriquez/rodolfo-terriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# hey, I'm Rodolfo 👋
+Marketer by day, app builder by night.
+I work at [@Workflowy](https://workflowy.com) and build small, focused iOS apps on the side — things I'd actually want to use.
+## Apps
+| App | Description | |
+|-----|-------------|---|
+| **Koku · 刻** | Minimalist focus timer for iOS | [App Store ↗️](https://apps.apple.com/app/koku-focus-timer/id6767715863) |
+## Building next
+- **Soro · そろそろ** — departure alert app, coming soon
+---
+📍 Guadalajara, MX
